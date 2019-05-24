@@ -1,5 +1,5 @@
 #print('\n' *100)
-cadena=" Hola Andrea ? soy hermilo ? facebook "
+cadena=" Hola  ? soy hermilo ? facebook "
 print(cadena.split("?"))
 
 #print(cadena.lower())
